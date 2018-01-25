@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>WebInspect Maven Plugin</name>
+      <prefix>webinspect</prefix>
+      <artifactId>webinspect-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
