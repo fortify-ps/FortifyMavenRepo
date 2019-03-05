@@ -3,10 +3,10 @@
   <groupId>com.fortify.client.api</groupId>
   <artifactId>client-api-fod</artifactId>
   <versioning>
-    <release>5.0</release>
+    <release>5.1</release>
     <versions>
-      <version>5.0</version>
+      <version>5.1</version>
     </versions>
-    <lastUpdated>20190305080834</lastUpdated>
+    <lastUpdated>20190305093007</lastUpdated>
   </versioning>
 </metadata>
